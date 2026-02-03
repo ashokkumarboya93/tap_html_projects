@@ -1,0 +1,62 @@
+body{
+    background: linear-gradient(90deg, #EBF4F5, #B5C6E0);
+    align-items: center;
+   
+}
+.title{
+    text-align: center;
+      color: white;
+    font-family: 'Fauna One', serif;
+    box-shadow: 4px 4px 8px #888888;
+    width: 95%;
+    margin: auto;
+    margin-top: 35px;
+}
+h1{
+    background-color: #39d6ff;
+    color: white;
+    width: 100%;
+    border-radius: 12px;
+    padding: 15px;
+    text-shadow: 2px 2px 4px #000000;
+}
+h2{
+   background-image: linear-gradient(to left, #dc79ff, #ff7cba, #ffa889, #ffd987, #e9ffb7);
+    padding: 10px;
+    font-family: var(--font-mono);
+    border-radius: 15px;
+    border-left: #ffa889 6px solid;
+
+}
+.title1{
+    text-align: center;
+      color: rgb(3, 3, 3);
+    font-family: 'Cinzel', serif;
+    box-shadow: 4px 4px 8px #888888;
+    width: 96%;
+}
+.song-section{
+    background-color: #f0f8ff;
+    border-radius: 15px;
+    padding: 20px;
+  box-shadow: 0 0 28px 12px rgba(123, 222, 250, 0.35);
+
+    height: 500px;
+    width: 1150px;
+    margin: auto;
+    border:solid #00aeda;
+    margin-top: 2px;
+}
+audio {
+    width: 95%;
+    max-width: 97%;
+    background:#F5F5F5;
+    border-radius: 18px;
+    padding: 10px 14px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+    margin-left: 10px;
+}
+.st{
+    margin-left: 20px;
+    color: #9929EA;
+}
