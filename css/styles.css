@@ -174,7 +174,7 @@ p{
         0 0 45px rgba(212, 175, 55, 0.25);
 }
 .movie-top video:hover {
-    transform: translateY(-4px) scale(1.01);
+    
     border-color: rgba(212, 175, 55, 0.6);
 
     box-shadow:
