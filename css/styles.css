@@ -156,11 +156,11 @@ p{
     justify-content: justify;
 }
 .movie-top img {
-    transition: transform 0.35s ease, box-shadow 0.35s ease;
+   transition: transform 0.35s ease, box-shadow 0.35s ease;
 }
 
 .movie-top img:hover {
-    transform: scale(1.05);
+    transform: scale(1.05); 
     box-shadow:
         0 14px 30px rgba(0,0,0,0.18),
         0 0 35px rgba(212, 175, 55, 0.35);
